@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: Reverse-engineering premium UI templates with raw SCSS & Vanilla JS.<br><br>👯 I’m looking to collaborate on: Open-source frontend projects and GSoC.<br><br>🤝 I’m looking for help with: Scaling into React, Next.js, and backend architecture.<br><br>🌱 I’m currently learning: React, Three.js, Node, and Docker.<br><br>💬 Ask me about: CSS Grid tricks, Vanilla JS logic, or philosophy books.<br><br>⚡ Fun fact: I average 90+ WPM on Monkeytype and thrive on 10-hour frontend debugging marathons.
+🔭 I’m currently working on: Reverse-engineering premium UI templates with raw SCSS & Vanilla JS.<br><br>👯 I’m looking to collaborate on: Open-source frontend projects and GSoC.<br><br>🤝 I’m looking for help with: Scaling into React, Next.js, and backend architecture.<br><br>🌱 I’m currently learning: React, Three.js, Node, and Docker.<br><br>💬 Ask me about: CSS Grid tricks, Vanilla JS logic, or philosophy books.<br><br>⚡ Fun fact: I average 100+ WPM on Monkeytype and thrive on 10-hour frontend debugging marathons.
 
 
 ## 🌐 Socials:
