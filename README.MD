@@ -3,7 +3,7 @@
 > "Writing code that feels like native software."
 
 ### 🛠️ The Architecture
-I engineer high-fidelity web interfaces, focusing on event-driven systems and kinematic UI. I don't just style components; I build browser-based operating systems like `weather_os`, bridging the gap between heavy data telemetry and zero-bloat, glassmorphic design. 
+I engineer high-fidelity web interfaces, focusing on event-driven systems and kinematic UI. I don't just style components; I build browser-based operating systems like `weather_os`, bridging the gap between heavy data telemetry and zero-bloat. 
 
 My work prioritizes modular architecture, pristine state management, and cinematic motion. If I'm not deep in a 30-hour debugging marathon to perfect a layout, I'm probably clocking 100+ WPM on Monkeytype or dissecting Dostoevsky.
 
