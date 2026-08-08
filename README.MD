@@ -4,6 +4,8 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/jass2k5/jass2k5/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jass2k5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -11,6 +13,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <img data-importer="image" align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZkMnF0ajN2NmNwamhyajdnaTFhMGhqbmU3NHpqcmd1anZrdTl1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/105TPTlFrqaW1G/giphy.gif"  />
 
@@ -56,5 +60,7 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%22The%20soul%20becomes%20dyed%20with%20the%20color%20of%20its%20thoughts.%22%20&fontSize=20&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
+
+###
 
 ###
