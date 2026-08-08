@@ -20,25 +20,25 @@
 ###
 
 <div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="50" alt="sass logo"  />
   <img width="20" />
-  <img src="https://img.shields.io/badge/Zustand-%23443E38?style=for-the-badge&logo=zustand&logoColor=white" height="50" alt="zustand logo"  />
+  <img src="https://skillicons.dev/icons?i=zustand" height="50" alt="zustand logo"  />
   <img width="20" />
-  <img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white" height="50" alt="gsap logo"  />
+  <img src="https://skillicons.dev/icons?i=greensock" height="50" alt="gsap logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo"  />
 </div>
 
 ###
@@ -61,7 +61,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%22The%20soul%20becomes%20dyed%20with%20the%20color%20of%20its%20thoughts.%22%20&fontSize=20&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%22The%20soul%20becomes%20dyed%20avec%20the%20color%20of%20its%20thoughts.%22%20&fontSize=20&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
 
 ###
