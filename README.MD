@@ -30,6 +30,10 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
   <img width="20" />
+  <img src="https://img.shields.io/badge/Zustand-%23443E38?style=for-the-badge&logo=zustand&logoColor=white" height="50" alt="zustand logo"  />
+  <img width="20" />
+  <img src="https://img.shields.io/badge/GSAP-%2388CE02?style=for-the-badge&logo=greensock&logoColor=white" height="50" alt="gsap logo"  />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img width="20" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
@@ -59,7 +63,5 @@
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%22The%20soul%20becomes%20dyed%20with%20the%20color%20of%20its%20thoughts.%22%20&fontSize=20&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
 </div>
-
-###
 
 ###
