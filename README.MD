@@ -61,7 +61,3 @@
 </div>
 
 ###
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%22The%20soul%20becomes%20dyed%20avec%20the%20color%20of%20its%20thoughts.%22%20&fontSize=20&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
