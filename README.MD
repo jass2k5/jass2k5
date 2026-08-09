@@ -1,11 +1,5 @@
 <br clear="both">
 
-<p data-importer="text" align="left">export const Jass = {<br>  role: "Frontend Engineer",<br>  age: 20,<br>  education: "Computer Science student building custom, logic-heavy, and visually stunning frontend architectures from scratch.",<br>  typingSpeed: "101 WPM ",<br>  focus: "Creative, animated, and deeply complex web architectures.",<br>  target: "Remote Startup",<br>  readyToShip: true<br>};</p>
-
-###
-
-<br clear="both">
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=jass2k5&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/jass2k5/jass2k5/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
